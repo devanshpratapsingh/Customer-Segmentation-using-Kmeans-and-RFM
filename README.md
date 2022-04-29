@@ -21,7 +21,7 @@ I used K-means clustering to group each customer according to their RFM score an
 
 
 ## DATASET 
-Datasert for this Segementation is taken from UCI Machine Learning repository,More information can be found from [here](http://archive.ics.uci.edu/ml/datasets/online+retail)
+Datasert for this Segementation is taken from UCI Machine Learning repository.
 
 Features 
 1. InvoiceNo: Invoice number. Nominal, a 6-digit integral number uniquely assigned to each transaction. If this code starts with letter 'c', it indicates a cancellation.
